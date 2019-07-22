@@ -1,3 +1,5 @@
+这个版本比较新，手动安装PYH，只支持python2
+
 PyH by Emmanuel Turlay (turlay@cern.ch)
 =======================================
 
